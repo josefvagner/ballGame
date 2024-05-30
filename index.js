@@ -19,8 +19,8 @@ const ball = {
     x: 305,
     y: 350,
     r: 7,
-    dx: 4,
-    dy: 4
+    dx: 2,
+    dy: 2
 }
 
 const bricks = {
